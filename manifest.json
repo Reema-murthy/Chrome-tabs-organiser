@@ -1,0 +1,21 @@
+{
+    "manifest_version":3,
+    "name": "Group tabs",
+    "description":"groups tabs from the same website together",
+    "version":"1.0",
+    "action":{
+        "default_popup": "popup.html",
+        "default_title": "Tab Management Dashboard"
+    },
+    "permissions":[
+        "tabs",
+        "tabGroups"
+    ],
+    "background":{
+        "service_worker":"background.js"
+    },
+    "host_permissions": [
+        "http://*/*",
+        "https://*/*"
+    ]
+}
