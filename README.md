@@ -14,5 +14,8 @@ groups tabs of the same website opened on a particular window.
 # video showing the grouping :
 
 
-https://github.com/Reema-murthy/Chrome-tabs-organiser/assets/147525994/3abc8be7-b882-43a2-a5dd-0e1bbdde085a
+
+
+https://github.com/Reema-murthy/Chrome-tabs-organiser/assets/147525994/2cfd6c7a-a90c-44ac-b315-2c2639b53155
+
 
